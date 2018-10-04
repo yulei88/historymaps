@@ -16,7 +16,7 @@
    height="345"
    viewBox="0 0 505 345"
    sodipodi:docname="55.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (unknown)">
   <title
      id="title31">巴比伦第一王朝</title>
   <metadata
@@ -29,7 +29,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>巴比伦第一王朝</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>俞磊</dc:title>
@@ -38,7 +38,7 @@
         <dc:language>zh-CN</dc:language>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -47,8 +47,6 @@
            rdf:resource="http://creativecommons.org/ns#Notice" />
         <cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>

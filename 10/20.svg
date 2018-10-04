@@ -16,7 +16,7 @@
    height="637"
    viewBox="0 0 640 637"
    sodipodi:docname="20.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.3 (unknown)"
    inkscape:export-filename="D:\Documents1\write\srts\civ01\maps\20.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -38,15 +38,15 @@
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title>CC BY 4.0</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:language>zh-CN</dc:language>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -55,8 +55,6 @@
            rdf:resource="http://creativecommons.org/ns#Notice" />
         <cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>

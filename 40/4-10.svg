@@ -16,7 +16,7 @@
    height="990"
    viewBox="0 0 788 990"
    sodipodi:docname="4-10.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.3 (unknown)"
    inkscape:export-filename="/home/yulei/Documents1/write/srts/civ05/maps/4-10.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -32,7 +32,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>意大利主要城邦</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>俞磊</dc:title>
@@ -40,13 +40,13 @@
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title>CC BY 4.0</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:language>zh-CN</dc:language>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -55,8 +55,6 @@
            rdf:resource="http://creativecommons.org/ns#Notice" />
         <cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>
@@ -71,16 +69,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="725"
-     inkscape:window-height="438"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="240"
      inkscape:cy="701.25487"
-     inkscape:window-x="1046"
-     inkscape:window-y="167"
-     inkscape:window-maximized="0"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <image
      width="788"
