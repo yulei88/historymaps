@@ -29,6 +29,6 @@
 
     没有附加限制 — 您不得适用法律术语或者 技术措施 从而限制其他人做许可协议允许的事情。
 
-参见：https://creativecommons.org/licenses/by-nd/4.0/
+    参见：https://creativecommons.org/licenses/by-nd/4.0/
 
 
